@@ -74,8 +74,7 @@ export default {
       user: {
         username: "",
         email: "hfj@qq.com",
-        password: "Hfj52099",
-        // password: "123456",
+        password: "",
       },
       errors: {}, // 错误信息
     };
